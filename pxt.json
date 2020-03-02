@@ -1,0 +1,18 @@
+{
+    "name": "tilemap",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "color-coded-tilemap": "*",
+        "color": "*"
+    },
+    "files": [
+        "main.ts",
+        "README.md",
+        "main.blocks"
+    ],
+    "preferredEditor": "blocksprj",
+    "testFiles": [
+        "test.ts"
+    ]
+}
